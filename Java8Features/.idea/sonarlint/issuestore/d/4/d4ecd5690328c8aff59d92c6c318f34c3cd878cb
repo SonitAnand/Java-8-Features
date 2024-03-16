@@ -1,0 +1,12 @@
+
+F
+java:S1481"*Remove this unused "start" local variable.(ŸŒ²=8ä“êƒ1
+E
+java:S1481	"(Remove this unused "end" local variable.(œñ“»8æ“êƒ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ìÒÆÃ8ù“êƒ1
+N
+java:S1602",Remove useless curly braces around statement(±œ¢—ıÿÿÿÿ8û“êƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş‰ÍØşÿÿÿÿ8€”êƒ1
+N
+java:S1602",Remove useless curly braces around statement(¯áû¬üÿÿÿÿ8Œ”êƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş‰ÍØşÿÿÿÿ8”êƒ1

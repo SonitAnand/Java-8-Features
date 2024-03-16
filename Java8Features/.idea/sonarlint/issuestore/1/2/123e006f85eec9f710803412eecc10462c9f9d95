@@ -1,0 +1,11 @@
+
+›
+java:S1130"~Remove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from constructor's body.(“Ÿñ¬8¼¤İû/
+]	java:S125"<This block of commented-out lines of code should be removed.(¡ŞŠÏùÿÿÿÿ8Ö¤İû/
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(¦®…ûÿÿÿÿ8‚‘¤İû/
+o
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 8ª‘¤İû/
+D
+java:S1185"(Remove this method to simply inherit it.(™”” 8°‘¤İû/
+]	java:S125"<This block of commented-out lines of code should be removed.(Ú¾Šäûÿÿÿÿ8Á‘¤İû/

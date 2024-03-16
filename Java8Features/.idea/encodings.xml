@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TestCode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TestCode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/RestTemplateErrorHandling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/RestTemplateErrorHandling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/SpringBootSecurityImplementationJWT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/SpringBootSecurityImplementationJWT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/springboot-resilience4j-main/catalog-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/springboot-resilience4j-main/catalog-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/springboot-resilience4j-main/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../MicroServiceApplicationWorkspace/springboot-resilience4j-main/user-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

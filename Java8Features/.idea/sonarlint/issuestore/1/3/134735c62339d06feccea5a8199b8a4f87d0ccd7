@@ -1,0 +1,15 @@
+
+G
+java:S1197"*Move the array designators [] to the type.(ó‰Ğ8Êå‰ò/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(µÆúÿÿÿÿ8Êå‰ò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(×ªŞƒıÿÿÿÿ8Êå‰ò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ÕÑ†ÿÿÿÿÿ8Êå‰ò/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û¿İú8Êå‰ò/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(İÑ88Ùå‰ò/
+G
+java:S1197"*Move the array designators [] to the type.(¹ÓíÄ8Ùå‰ò/
+<
+java:S1659"Declare "j" on a separate line.(‹¡ë8Ùå‰ò/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ğÖ‚Â8Ùå‰ò/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(œëëøÿÿÿÿ8Ùå‰ò/

@@ -1,0 +1,17 @@
+
+›
+java:S3655!"ZCall "longestString.isPresent()" or "!longestString.isEmpty()" before accessing the value.(èŠÿŸøÿÿÿÿJ$8b385f30-6db1-43e1-96df-62af4be052d6
+Œ
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÖëúÈJ$5e2ff266-4714-4e7a-a942-1d1c8c4570f9
+‘
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¥œúúÿÿÿÿJ$60a3cfe8-a945-4135-bdb5-e47c81718a4c
+f	java:S106"+Replace this use of System.out by a logger.(«§™§J$42e28b77-98fc-45e3-a374-06581b9d5db7
+f	java:S106"+Replace this use of System.out by a logger.(ÔàíJ$c741936c-2226-42a8-8df5-f34317031f07
+k	java:S106!"+Replace this use of System.out by a logger.(èŠÿŸøÿÿÿÿJ$71bd7fad-9fcf-4633-8d9a-4f2174f942ed
+f	java:S106""+Replace this use of System.out by a logger.(ÆÀûıJ$6fe6e368-e5d6-4e28-90e6-0c090efd3805
+f	java:S106."+Replace this use of System.out by a logger.(¨ößÏJ$d3d9bd54-918a-4839-b681-b3a9d078e73d
+f	java:S1068"+Replace this use of System.out by a logger.(é¾²¬J$4093d56e-52bf-43bb-83b9-88c00db269a0
+e	java:S106C"+Replace this use of System.out by a logger.(Ú“ú[J$c82f4ec7-968d-47e3-b628-1ed241209c3f
+f	java:S106I"+Replace this use of System.out by a logger.(„•‰ñJ$952e6864-d768-493b-be89-94ed7ec0390d
+f	java:S106N"+Replace this use of System.out by a logger.(ç¿¡õJ$c1534c94-25a2-45fa-90d6-bf7f625d8dfd
+k	java:S106V"+Replace this use of System.out by a logger.(«º£çúÿÿÿÿJ$d8b81ee5-df54-431b-bcd9-2b00c84d96cf

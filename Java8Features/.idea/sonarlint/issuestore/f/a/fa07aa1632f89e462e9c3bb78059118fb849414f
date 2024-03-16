@@ -1,0 +1,19 @@
+
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÙêÜÔ8Úêƒ1
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ø£‚«øÿÿÿÿ8Øêƒ1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(®ıí8Öêƒ1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‰¢ÔÅ8Ùêƒ1
+i
+java:S3655"LCall "second.isPresent()" or "!second.isEmpty()" before accessing the value.(­’¾8Øêƒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹˜¤ø8úêƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—™˜šùÿÿÿÿ8¤êƒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü8§êƒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìó£Ø8±êƒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾¨“”8Üêƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£ÙÃñøÿÿÿÿ8ßêƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øêÏ‰şÿÿÿÿ8âêƒ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­’¾8¥‘êƒ1

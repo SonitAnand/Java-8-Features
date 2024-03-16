@@ -1,0 +1,21 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ëõ¤
+t
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(«²Äÿÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(¹¡É†
+;
+java:S2129" Remove this "String" constructor(Ö°–Ìÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÌÿíÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“½œŸ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–¹ä–
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ãúşÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â¦£øÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(âË¡Åúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(‹Ê®ÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ã¤õùÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Â½Ôç
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ç°³¢
+V	java:S1253"<This block of commented-out lines of code should be removed.(ÃŸ¾¼üÿÿÿÿ

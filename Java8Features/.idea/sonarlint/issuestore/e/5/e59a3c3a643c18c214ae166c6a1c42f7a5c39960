@@ -1,0 +1,10 @@
+
+
+java:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«Êª›şÿÿÿÿ8ÌğÍ™î/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(» µÆÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óØª´úÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ø­•ßúÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.( ¿Ã
+L
+java:S1197."*Move the array designators [] to the type.(êí‚úÿÿÿÿ8ÛğÍ™î/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ÍÑ¸¼üÿÿÿÿ8ëğÍ™î/
